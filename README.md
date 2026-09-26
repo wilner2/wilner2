@@ -54,13 +54,6 @@
 <img src="https://img.shields.io/badge/Apache%20Druid-29F1FB?style=flat-square&logo=apachedruid&logoColor=black"/>
 <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white"/>
 
-### 📈 Estatísticas no GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
-</p>
-
 ---
 
 <p align="center">
