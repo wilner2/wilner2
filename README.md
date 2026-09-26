@@ -14,13 +14,12 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔭 Engenheiro backend com **mais de 5 anos** de experiência, atualmente trabalhando remoto na **Sem Parar**
+- 🔭 Engenheiro backend com **mais de 5 anos** de experiência
 - 🏗️ Foco em sistemas distribuídos, arquiteturas orientadas a eventos e infraestrutura em nuvem
-- 💳 Experiência com integrações de pagamento: **Stripe, Mercado Pago, Pix, VTEX, TOTVS**
-- 📊 Atuando com observabilidade e governança de custos usando **Dynatrace**
-- 🤖 Explorando **Engenharia de IA Aplicada** e construindo um SaaS de aprimoramento de prompts (web app + servidor MCP)
+- 💳 Experiência com integrações de sistemas
+- 📊 Atuando com observabilidade e governança de custos
+- 🤖 Explorando **Engenharia de IA Aplicada** 
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🎓 Tecnólogo em Tecnologia da Informação pelo Centro Universitário Una
 
 ### 🏆 Destaques
 
